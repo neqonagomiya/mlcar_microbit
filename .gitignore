@@ -1,5 +1,11 @@
 # custom setting
 memo.md
+*.zip
+*.tar.gz
+.python-version
+libsrc/*
+
+converted_keras
 
 # Created by https://www.toptal.com/developers/gitignore/api/pydev,jupyternotebooks,python,macos,c++
 # Edit at https://www.toptal.com/developers/gitignore?templates=pydev,jupyternotebooks,python,macos,c++
